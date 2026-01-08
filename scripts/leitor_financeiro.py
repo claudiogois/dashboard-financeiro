@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_excel("../dados/controle_financeiro.xlsx")
+df = pd.read_excel("dados/controle_financeiro.xlsx")
 
 total_entrada = df["ENTRADA"].sum()
 total_saida = df["SAIDA"].sum()
