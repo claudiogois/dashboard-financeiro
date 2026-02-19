@@ -2,7 +2,6 @@
 
 Aplicação desenvolvida em Python utilizando Streamlit e Plotly para análise visual de entradas, saídas e saldo mensal.
 
-🚀 Contexto
 
 Este projeto faz parte da minha jornada de evolução na área de Dados e Inteligência Artificial.
 
@@ -29,6 +28,5 @@ OpenPyXL
 ✔ Indicador visual para saldo positivo/negativo
 ✔ Gráfico comparativo de entradas e saídas
 ✔ Evolução do saldo acumulado
-
 
 ![Preview do Dashboard](assets/preview.png)
